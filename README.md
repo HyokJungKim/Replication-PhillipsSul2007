@@ -23,3 +23,6 @@ The structure of the code is as follows:
 
 (6) sorthat.m
  - Returns the indices for the club membership, and tests whether if the series does converge.
+
+(7) PLOT2_hit.m
+ - Plots the transition paths for each convergence clubs.
