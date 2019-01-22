@@ -22,7 +22,6 @@
 %    Some Empirics on Economic Growth under Heterogeneous Technology (2007)
 %      by Phillips and Sul (2007), Journal of Macroeconomics 
 % ========================================================================
-% Special thanks go to Ekaterini Panopoulou for testing this Gauss code.
 
 clear;
 clc;
