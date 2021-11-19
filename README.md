@@ -1,6 +1,6 @@
 # Replication_PhillipsSul
 
-This is a replication of [Phillips and Sul (2007)](https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0262.2007.00811.x) "Transition Modeling and Econometric Convergence Tests" *Econometrica*.
+This is a replication of [Phillips and Sul (2007)](https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0262.2007.00811.x) "Transition Modeling and Econometric Convergence Tests" published in *Econometrica*.
 
 Original code of Phillips and Sul (2007) is written in Gauss, but I reimplemented their algorithm in Matlab.
 
